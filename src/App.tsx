@@ -23,6 +23,12 @@ function App() {
           <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 mb-4">
             Resume Analyzer
           </h1>
+          <h5 className="text-4xl md:text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-600 to-green-700 dark:from-green-400 dark:to-purple-400 mb-4">
+            by
+          </h5>
+          <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-200 to-red-800 dark:from-blue-200 dark:to-rose-800 mb-4">
+            Siraddeen
+          </h1>
           <p className="text-gray-600 dark:text-gray-300 text-lg max-w-2xl mx-auto">
             Upload your resume and get instant AI-powered analysis and feedback
           </p>
